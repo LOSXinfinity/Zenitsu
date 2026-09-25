@@ -81,7 +81,7 @@ Zenitsu/
 
 ## 📜 License
 
-Fan project for *Demon Slayer: Kimetsu no Yaiba*. Characters © Koyoharu Gotouge / Shueisha / Aniplex / Ufotable. Code: MIT — do whatever, credit appreciated.
+Fan project for *Demon Slayer: Kimetsu no Yaiba*. Characters © Koyoharu Gotouge / Ufotable. Code: MIT — do whatever, credit appreciated.
 
 ---
 
